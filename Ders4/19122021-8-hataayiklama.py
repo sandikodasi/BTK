@@ -1,7 +1,22 @@
+
+
 # print(a) #nameerror hatası
+
+
+
+
+
+
+
+
 # print("Btk"deneme) syntax error
+
+
+
+
+
 # print(10/0) #zeroDivisionError hatası verir
-# int("5a") #valueError hatası verir
+int("5a") #valueError hatası verir
 
 
 
